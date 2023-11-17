@@ -102,7 +102,7 @@ match_schedule = {
          'The Aristocrat\'s Otherworldly Adventure: Serving Gods Who Go Too Far', 55, 22),
         ('Dr. STONE New World','Oshi no Ko', 21, 72),
         ('Kuma Kuma Kuma Bear - Punch!','Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc', 52, 31),
-        ('Hell\'s Paradise','TONIKAWA: Over The Moon For You S2', 0, 0),
+        ('Hell\'s Paradise','TONIKAWA: Over The Moon For You S2', 41, 31),
         ('Oshi no Ko','Kuma Kuma Kuma Bear - Punch!', 0, 0),
         
     ]
