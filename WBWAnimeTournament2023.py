@@ -103,8 +103,8 @@ match_schedule = {
         ('Dr. STONE New World','Oshi no Ko', 21, 72),
         ('Kuma Kuma Kuma Bear - Punch!','Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc', 52, 31),
         ('Hell\'s Paradise','TONIKAWA: Over The Moon For You S2', 41, 31),
-        ('Oshi no Ko','Kuma Kuma Kuma Bear - Punch!', 0, 0),
-        
+        ('Oshi no Ko','Kuma Kuma Kuma Bear - Punch!', 30, 52),
+        ('TONIKAWA: Over The Moon For You S2','Oshi no Ko', 0, 0)
     ]
 }
 
