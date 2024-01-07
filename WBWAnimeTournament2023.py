@@ -105,7 +105,7 @@ match_schedule = {
         ('Hell\'s Paradise','TONIKAWA: Over The Moon For You S2', 41, 31),
         ('Oshi no Ko','Kuma Kuma Kuma Bear - Punch!', 30, 52),
         ('TONIKAWA: Over The Moon For You S2','Oshi no Ko', 53, 19),
-        ('Kuma Kuma Kuma Bear - Punch!','Hell\'s Paradise', 0, 0)
+        ('Kuma Kuma Kuma Bear - Punch!','Hell\'s Paradise', 85, 36)
     ]
 }
 
@@ -322,7 +322,7 @@ print(
 print(
     f"- Total matches: \033[36m{rounded_total_matches}\033[0m")
 print(highest_votes_line)
-print("🏆 [WBW] ANIME VOTE TOURNAMENT SUMMER 2023 CHAMPION 🏆: \033[33mNot Detect\033[0m")
+print("🏆 [WBW] ANIME VOTE TOURNAMENT SUMMER 2023 CHAMPION 🏆: \033[33mHell's Paradise\033[0m")
 print()
 print("INTERESTING STATISTICS")
 print("- ... will be completed after the tournament")
